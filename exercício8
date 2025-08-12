@@ -1,0 +1,12 @@
+algoritmo "exercício8"
+
+var
+sucessor, antecessor,n1: inteiro
+inicio
+escreval("Digite um valor: ")
+leia(n1)
+sucessor <- n1 + 1
+antecessor <- n1 - 1
+escreval("O sucessor de ",n1," é ", sucessor)
+escreval("O antecessor de ",n1," é ", antecessor)
+fimalgoritmo
