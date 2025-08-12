@@ -1,7 +1,7 @@
 algoritmo "execício4"
 
 var
-n1 : inteiro
+n1,n2: inteiro
 inicio
 escreval("Digite um valor : ")
 leia(n1)
