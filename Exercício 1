@@ -1,7 +1,6 @@
 algoritmo "SomadosNúmeros"
 var
     n1,n2,S: inteiro
-
 inicio
   escreval("Digite um número: ")
   leia(i)
@@ -9,4 +8,4 @@ inicio
   leia(g)
   S <- n1 + n2
   escreval("A soma é: ", S)
-fimdoalgoritmo
+fimalgoritmo
