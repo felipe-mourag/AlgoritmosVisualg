@@ -1,0 +1,16 @@
+algoritmo "exercício2"
+var
+    n1,n2,m: inteiro
+
+inicio
+    escreva("Digite o primeiro número: ")
+    leia(n1)
+    escreva("Digite o segundo número: ")
+    leia(n2)
+    se ( n1 < n2 ) entao
+       m <- n2
+    senao
+       m <- n1 
+    fimse
+    escreval(" O maior valor entre ",n1," e ",n2," é de : ",m)
+fimalgoritmo
