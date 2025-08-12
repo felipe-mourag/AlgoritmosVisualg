@@ -1,0 +1,14 @@
+algoritmo "exercício10"
+
+var
+n1,n2,n3,MA: inteiro
+inicio
+escreva("Digite o primeiro valor: ")
+leia(n1)
+escreval("Digite o segundo valor: ")
+leia9n2)
+escreval("Digite o terceiro valor: ")
+leia(n3)
+MA <- (n1+n2+n3)/3
+escreval("A média aritmética é: ",MA)
+fimalgoritmo
