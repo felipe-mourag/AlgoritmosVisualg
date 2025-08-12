@@ -11,4 +11,4 @@ inicio
   leia(g)
   S <- n1 + n2
   escreval("A soma é: ", S)
-fimdoalgoritmo
+fimalgoritmo
