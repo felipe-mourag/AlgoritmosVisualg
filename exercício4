@@ -1,0 +1,11 @@
+algoritmo "execício4"
+
+var
+n1 : inteiro
+inicio
+escreval("Digite um valor : ")
+leia(n1)
+para n2 <- 1 ate 10 faça
+  escreval(n1, " x ", n2, " = ", n1 * n2)
+fimpara
+fimalgoritmo
