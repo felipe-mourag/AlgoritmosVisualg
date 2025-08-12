@@ -1,0 +1,10 @@
+algoritmo "exercício6"
+
+var
+celsius, fahrenheit: real
+inicio
+escreval("Qual é o valor em celsius? ")
+leia(celsius)
+fahrenheit <- (celsius * 9/5) + 32
+escreval("O valor em farehnheit é: ", farenheit
+fimalgoritmo
