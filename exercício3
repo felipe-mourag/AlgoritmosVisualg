@@ -1,0 +1,13 @@
+algoritmo "exrecício3"
+
+var
+n1 : inteiro
+inicio
+escreval("Digite um valor: ")
+leia(n1)
+se ( n1 % 2 = 0 ) entao 
+    escreval ("O número é par")
+senao
+    escreval("O número é ímpar ")
+fimse    
+fimalgoritmo
