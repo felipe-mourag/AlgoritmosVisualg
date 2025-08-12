@@ -1,6 +1,4 @@
 algoritmo "SomadosNúmeros"
-// Este é um exemplo simples de código Visualg
-
 var
     n1,n2,S: inteiro
 
