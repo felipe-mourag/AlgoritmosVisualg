@@ -1,4 +1,6 @@
 algoritmo "SomadosNúmeros"
+// Este é um exemplo simples de código Visualg
+
 var
     n1,n2,S: inteiro
 
@@ -9,4 +11,4 @@ inicio
   leia(g)
   S <- n1 + n2
   escreval("A soma é: ", S)
-fimalgoritmo
+fimdoalgoritmo
