@@ -1,4 +1,4 @@
-algoritmo "exercício1"
+algoritmo "Soma"
 var
     n1,n2,S: inteiro
 inicio

@@ -1,4 +1,4 @@
-algoritmo "exercício5"
+algoritmo "ContagemRegressiva"
 
 var
 n1 , n2 : inteiro

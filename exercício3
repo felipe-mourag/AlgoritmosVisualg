@@ -1,4 +1,4 @@
-algoritmo "exrecício3"
+algoritmo "ParOuÍmpar"
 
 var
 n1 : inteiro

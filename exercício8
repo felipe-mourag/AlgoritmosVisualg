@@ -1,4 +1,4 @@
-algoritmo "exercício8"
+algoritmo "AntecessoreSucessor"
 
 var
 sucessor, antecessor,n1: inteiro

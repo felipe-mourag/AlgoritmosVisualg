@@ -1,4 +1,4 @@
-algoritmo "exercício6"
+algoritmo "ConversãodeTemperatura"
 
 var
 celsius, fahrenheit: real

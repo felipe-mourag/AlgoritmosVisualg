@@ -1,4 +1,4 @@
-algoritmo "exercício7"
+algoritmo "ÀreaRetângulo"
 
 var
 altura,base, area : real
